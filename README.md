@@ -2,7 +2,7 @@
 
 Contributors: Yuri Victor, Joshua Benton, Matt Montgomery, Ivar Vong, Steve Peters, Flip Stewart, Greg MacWilliam.
 
-This web app generates posters and flyers for the [Global Climate Strike](https://globalclimatestrike.net/). See a working version at [350poster.netlify.com](https://350poster.netlify.com/).
+This web app generates posters and flyers for the [Global Climate Strike](https://globalclimatestrike.net/). See a working version at [350poster.netlify.com](https://350poster.netlify.com/). For this repo : https://singular-gelato-7ee4d0.netlify.app/
 
 ## Install
 
